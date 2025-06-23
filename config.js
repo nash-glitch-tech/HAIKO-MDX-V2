@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "HAIKO~MDX~kYByQR6S#wru7mBIORse-l90i961s6lEuKu9yGOkZ9lfM1CIGDCQ"
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PROF-XTREME👑*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "SEEN YOUR STATUS BY PROF-XTREME👑",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
